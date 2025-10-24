@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: mongo-demo
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/devdb
+server:
+  port: 8080
